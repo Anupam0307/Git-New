@@ -20,6 +20,8 @@ public class AppTest
     	
         super( testName );
         System.out.println("Hello running test suite!!");
+        System.out.println("This is for testing maven build process");
+        System.out.println("Print Jenkins buils process");
     }
 
     /**
