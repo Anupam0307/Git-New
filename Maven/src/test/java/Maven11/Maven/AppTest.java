@@ -21,7 +21,8 @@ public class AppTest
     {
         super( testName );
         System.out.println("hello");
-    	System.out.println("Hello running test suite!!");
+        System.out.println("Hello running test suite!!");
+        System.out.println("Hello running test suite!!");
     }
 
     /**
