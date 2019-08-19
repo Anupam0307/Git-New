@@ -22,7 +22,7 @@ public class AppTest
         System.out.println("Hello running test suite!!");
         System.out.println("This is for testing maven build process");
         System.out.println("Print Jenkins buils process");
-        System.out.println("devops process");
+       
     }
 
     /**
