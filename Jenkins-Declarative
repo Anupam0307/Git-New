@@ -6,7 +6,7 @@ pipeline{
             {
                 steps
                 {
-                    git 'https://github.com/Anupam0307/Git-New'    
+                      
                 }
             
         }
